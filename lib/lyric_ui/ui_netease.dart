@@ -51,7 +51,7 @@ class UINetease extends LyricUI {
   @override
   TextStyle getOtherMainTextStyle() =>
       TextStyle(color: Colors.white, fontSize: otherMainSize,
-                fontFamily: 'krdev010',
+                fontFamily: 'brh_dev',
                 
                );
 
@@ -59,7 +59,7 @@ class UINetease extends LyricUI {
   TextStyle getPlayingMainTextStyle() => TextStyle(
         color: Color(0xff1dd8a9),
         fontSize: defaultSize,
-        fontFamily: 'krdev010',
+        fontFamily: 'brh_dev',
     
       );
 
